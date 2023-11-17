@@ -4,6 +4,12 @@
 Reference:
 [using-pyinstaller-or-similar-to-create-an-executable Post #73](https://discuss.streamlit.io/t/using-pyinstaller-or-similar-to-create-an-executable/902/73)
 
+## Screenshots
+
+
+
+
+
 1. Folders structure (If you see more folder than here, dont worry): 
 ```sh
 ./my_exe_App_V1.2-Python-Streamlit/
@@ -61,3 +67,4 @@ You should view the (venv) in the prompt: i.e.: ```(venv) PS C:\Users\alexis_iba
 ```
     streamlit run .\my_exe_App_V1.2.py
 ```
+
