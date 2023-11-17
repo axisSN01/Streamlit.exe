@@ -5,7 +5,7 @@ Reference:
 [using-pyinstaller-or-similar-to-create-an-executable Post #73](https://discuss.streamlit.io/t/using-pyinstaller-or-similar-to-create-an-executable/902/73)
 
 ## Screenshots
-
+[](https://github.com/axisSN01/Streamlit.exe/blob/main/static/Captura.PNG)
 
 
 
