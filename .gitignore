@@ -1,0 +1,4 @@
+venv/
+dist/.streamlit/
+dist/tempdir/
+build/

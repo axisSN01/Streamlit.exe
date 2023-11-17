@@ -1,0 +1,21 @@
+[theme]
+backgroundColor="#2a2a2a"
+
+secondaryBackgroundColor="#4d3d74"
+
+primaryColor="#199dab"
+
+textColor="#FFFFFF"
+
+font="sans serif"
+
+[global]
+developmentMode = false
+
+[server]
+port = 8501
+maxUploadSize = 1000000
+maxMessageSize = 1000000
+
+[logger]
+level="info"
