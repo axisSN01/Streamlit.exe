@@ -6,8 +6,13 @@ Reference:
 
 ## Screenshots
  
-![alt text](https://github.com/axisSN01/Streamlit.exe/blob/main/static/Captura.PNG "Logo Title Text 1")
+![alt text](https://github.com/axisSN01/Streamlit.exe/blob/main/static/Captura.PNG "exec file")
 
+![alt text](https://github.com/axisSN01/Streamlit.exe/blob/main/static/Captura2.PNG "running app")
+
+![alt text](https://github.com/axisSN01/Streamlit.exe/blob/main/static/Captura3.PNG "running app")
+
+![alt text](https://github.com/axisSN01/Streamlit.exe/blob/main/static/Captura4.PNG "running app")
 
 
 
